@@ -1,0 +1,9 @@
+{
+  "name": "open-meteo-wrapper",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "bun --watch index.js",
+    "dev": "bun --hot index.js"
+  },
+  "dependencies": {}
+}
